@@ -1,1 +1,1 @@
-# A-Risk-Assessment-approach-based-on-Information-Theory
+# A Risk Assessment approach based on Information Theory
